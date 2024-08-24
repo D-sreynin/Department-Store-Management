@@ -1,0 +1,4 @@
+Tshirt 1
+skirt 60
+pepsi 60
+chair 60
